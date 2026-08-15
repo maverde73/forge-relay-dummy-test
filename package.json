@@ -1,0 +1,15 @@
+{
+  "name": "fatturina",
+  "version": "0.1.0",
+  "description": "Genera fatture professionali (Markdown/HTML) da un semplice descrittore JSON. Pensata per freelance e piccole attività.",
+  "type": "module",
+  "bin": {
+    "fatturina": "./bin/fatturina.js"
+  },
+  "main": "./src/invoice.js",
+  "scripts": {
+    "test": "node --test \"test/**/*.test.js\""
+  },
+  "keywords": ["fattura", "invoice", "freelance", "iva", "billing"],
+  "license": "MIT"
+}

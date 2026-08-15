@@ -1,0 +1,21 @@
+{
+  "number": "2026-001",
+  "date": "2026-08-15",
+  "seller": {
+    "name": "Studio Verde di M. Verde",
+    "vatId": "IT01234567890",
+    "address": "Via Roma 1, Milano"
+  },
+  "client": {
+    "name": "ACME Srl",
+    "vatId": "IT09876543210",
+    "address": "Corso Italia 99, Torino"
+  },
+  "currency": "EUR",
+  "vatRate": 22,
+  "items": [
+    { "description": "Sviluppo software (giornate)", "qty": 5, "unitPrice": 500 },
+    { "description": "Consulenza tecnica (ore)", "qty": 8, "unitPrice": 90 }
+  ],
+  "notes": "Pagamento a 30 giorni. Bonifico su IBAN IT00X0000000000000000000000."
+}

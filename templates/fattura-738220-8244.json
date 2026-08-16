@@ -1,0 +1,23 @@
+{
+  "number": "TEMPLATE-738220-8244",
+  "date": "AAAA-MM-GG",
+  "seller": {
+    "name": "",
+    "vatId": "",
+    "address": ""
+  },
+  "client": {
+    "name": "",
+    "vatId": "",
+    "address": ""
+  },
+  "vatRate": 22,
+  "items": [
+    {
+      "description": "Prestazione",
+      "qty": 1,
+      "unitPrice": 0
+    }
+  ],
+  "notes": "Template generato dal workflow di test ForgeRelay."
+}
